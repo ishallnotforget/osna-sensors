@@ -1,3 +1,5 @@
+This project had a short life. It has been superseeded by [Germasense](https://github.com/ishallnotforget/germasense) as of now and is now abandoned.
+
 # Osnabrück sensor & transit map
 
 A live map of about 850 public sensors and every bus, tram and train between Quakenbrück and Essen.
