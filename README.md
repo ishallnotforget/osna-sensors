@@ -1,4 +1,12 @@
-This project had a short life. It has been superseeded by [Germasense](https://github.com/ishallnotforget/germasense) as of now and is now abandoned.
+# This project had a short life. It has been superseeded by [Germasense](https://github.com/ishallnotforget/germasense) as of now and is now abandoned.
+
+
+
+
+
+
+
+
 
 # Osnabrück sensor & transit map
 
